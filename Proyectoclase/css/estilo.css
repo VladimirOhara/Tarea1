@@ -1,0 +1,105 @@
+*
+{margin: 10px;}
+#principal
+{
+    margin:auto;
+    margin-top: 30px;
+    border-radius: 30px;
+    border-style: solid;
+    width: 600px;
+    height:600px;
+    background-color: yellow;
+}
+#caja1
+{
+    margin:auto;
+    width:560px;
+    height:100px;
+    background-color: aqua;   
+}
+#caja2
+{
+    width:560px;
+    height:100px;
+    background-color: darksalmon;
+}
+#caja3
+{
+    border-radius: 200px;
+    float: left;
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+#caja4
+{
+    float: right;
+    width:200px;
+    height: 200px;
+    background-color: rgb(207, 53,192);   
+}
+#caja11
+{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(207, 53,192);
+}
+#principal1
+{
+    margin:auto;
+    margin-top: 30px;
+    border-radius: 30px;
+    border-style: solid;
+    width: 600px;
+    height:600px;
+    background-color:rosybrown;
+}
+#cabeza
+{
+    border-radius: 100px;
+    margin:auto;
+    width:100px;
+    height:100px;
+    background-color: aqua;   
+}
+#ojo1
+{
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 20px;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+}
+#ojo2
+{
+    display: inline-block;
+    border-radius: 20px;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+}
+#cuerpo
+{
+    border-radius: 170px;
+    margin:auto;
+    width:170px;
+    height:170px;
+    background-color: aqua;
+}
+#bate
+{
+    display: inline-block;
+    margin-top: 60px;
+    width:350px;
+    height:25px;
+    background-color: brown;
+}
+#pie
+{
+    border-radius: 250px;
+    margin:auto;
+    width:250px;
+    height:250px;
+    background-color: aqua;
+}
